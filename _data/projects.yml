@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: 3D BAT
+  role: Primary Developer
+  duration: Sep, 2018 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: The focus is on obtaining 2D and 3D labels, as well as track IDs for objects on the road. The open source, web-based 3D Bounding Box Annotation Toolbox incorporates several smart features to improve usability and efficiency. For example, semi-automatic labeling of tracks using interpolation, which is vital for downstream tasks like tracking, motion planning and motion prediction. Moreover, annotations for all camera images are automatically obtained by projecting annotations from 3D space into the image domain. In addition to the raw image and point cloud feeds, a Masterview consisting of the top view (bird’s-eye-view), side view and front view is made available to observe objects of interest from different perspectives. Comparisons of method with other publicly available annotation tools reveal that 3D annotations can be obtained faster and more efficiently by using the 3D BAT toolbox.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Genetic Algorithm Container Solver
+  role: Primary Developer
+  duration: 2014 &mdash; 2016
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Calculates the optimum usage of a shipping space using Genetic Algorithms. The objective of the optimization is the maximization of loaded container of type dangerous and the minimization of the unused shipping space. The minimization of the unused shipping space has to be preferred against the maximization of the loaded container of type dangerous. A statistical evalutation can be provided.
