@@ -3,63 +3,63 @@
   year: 2019
   summary: Presenting research work (3D Labeling Tool) at the IV2019 conference
 
-#- certificate:
-#  organization:
-#  year: 2019
-#  summary:
-#
-#- certificate:
-#  organization:
-#  year: 2019
-#  summary:
-#
-#- certificate:
-#  organization:
-#  year: 2019
-#  summary:
-#
-#- certificate:
-#  organization:
-#  year: 2019
-#  summary:
-#
-#- certificate:
-#  organization:
-#  year: 2019
-#  summary:
-#
-#- certificate:
-#  organization:
-#  year: 2019
-#  summary:
-#
-#- certificate:
-#  organization:
-#  year: 2019
-#  summary:
-#
-#
-#- certificate:
-#  organization:
-#  year: 2019
-#  summary:
-#
-#- certificate:
-#  organization:
-#  year: 2019
-#  summary:
-#
-#- certificate:
-#  organization:
-#  year: 2019
-#  summary:
-#
-#- certificate:
-#  organization:
-#  year: 2019
-#  summary:
-#
-#- certificate:
-#  organization:
-#  year: 2019
-#  summary:
+- certificate: Entrepreneurship Certificate Program
+  organization:
+  year: 2019
+  summary: Certified in entrepreneurship.
+
+- certificate: Lean Six Sigma - White and Yellow Belt
+  organization:
+  year: 2019
+  summary: Certified in process and quality improvement.
+
+- certificate: Strengths-Based Leadership
+  organization:
+  year: 2018
+  summary: Training for becoming a leader (know your strengths)
+
+- certificate: iLead Leadership Development Program
+  organization:
+  year: 2018
+  summary: Training for acquiring leadership skills
+
+- certificate: Interpersonal Relationships Seminar
+  organization:
+  year: 2018
+  summary: Build relationship, train intercultural communication, lead difficult conversations
+
+- certificate: MOVE-II Satellite, IDP Certificate
+  organization:
+  year: 2018
+  summary: 14 months long interdisciplinary project in Space Mission Operations. Implementation of a web user interface for the Mission Control Center for the satellite mission MOVE-II. Development of a web admin dashboard for controlling the satellite, create visualizations (Web Development, JavaScript, TypeScript, AngularJS, NodeJS, d3.JS)
+
+- certificate: Language certificate
+  organization:
+  year: 2017
+  summary: DAAD English language certificate, C1 level
+
+
+- certificate: Intercultural competence & communication workshop
+  organization:
+  year: 2016
+  summary: Build intercultural communication skills
+
+- certificate: Hackathon
+  organization:
+  year: 2016, 2019
+  summary: TUM Hackathon (HackaTUM). Develop and present a prototype to several companies. Smart Garage Door (2016), roads.sexy (2019, winner)
+
+- certificate: International Program in Engineering (IPE)
+  organization:
+  year: 2016
+  summary: International semester in the area of Automation Systems Engineering. Focus on Extended Concepts in Automation, Simulative Engineering, Embedded Systems. Passed 12 exams.
+
+- certificate: Trainer certificate
+  organization:
+  year: 2016
+  summary: Certified trainer (passed two exams).
+
+- certificate: ACX Application Developer
+  organization:
+  year: 2013
+  summary: Certified Java Application Developer.
