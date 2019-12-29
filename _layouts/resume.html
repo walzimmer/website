@@ -188,6 +188,22 @@
         </div>
         {% endfor %}
 
+      {% if site.resume_section_certificates %}
+      <!-- begin Recognition -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Certificates</h2>
+        </header>
+
+        {% for certificate in site.data.certificates %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="award">{{ certificate.certificate }}</h3>
+          <h4 class="resume-item-details">{{ certificate.organization }} &bull; {{ certificate.year }}</h4>
+          <p class="resume-item-copy">{{ certificate.summary }}</p>
+        </div>
+        {% endfor %}
+
       </section>
       <!-- end Recognition -->
       {% endif %}
