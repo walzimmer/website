@@ -64,7 +64,7 @@ resume_section_soft_skills:          true
 resume_section_publications:     true
 resume_section_awards:     true
 resume_section_certificates:     true
-resume_section_links:           true
+resume_section_links:           false
 resume_section_memberships:    true
 # resume_section_interests:       true
 
