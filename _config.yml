@@ -26,7 +26,7 @@ display_header_contact_info:    "false"
 resume_header_intro: "<p>I'm an Autonomous Driving Research Engineer and I'm particularly interested in improving safety of autonomous vehicles. I have focused on Machine Learning at the Technical University of Munich, Delft University of Technology and the University of California in San Diego, where I developed Machine Learning algorithms for a Tesla Model S. Using my programming skills I love to solve hard research problems and develop new approaches. My strength is in understanding the scene around a self-driving car (perception) and particularly 3D Object Detection. I have worked with sensor data at AUDI at the sensor data fusion department and was researcher at the Laboratory of Intelligent and Safe Automobiles (LISA) in San Diego.
 
 Expert knowledge in:
-<ul class="resume-item-list">
+<ul class='resume-item-list'>
   <li>Machine Learning, Deep Learning, Robotics</li>
   <li>Python, TensorFlow, Keras, Convolutional Neural Networks (CNNs)</li>
   <li>C++, Java, Object Oriented Design, Design Pattern</li>
@@ -66,14 +66,14 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/walzimmer"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/walterzimmer"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  #resume_website_url:           "http://joelglovier.com"
+  #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
