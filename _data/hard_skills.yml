@@ -1,12 +1,12 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership (hard skill)
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Software Engineering
+  description: Having more than 10 years of experience in Software Development, I am confident with Software Architecture, Object Oriented Design, Design Patterns, Test Driven Development (TDD), Continuous Integration and Delivery (CI/CD).
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Machine Learning
+  description: I am experienced Machine Learning research engineer (>4 years of experience). Developing Deep Neural Network (DNN) architectures, optimizing algorithms through hyperparameter tuning, training and evaluating machine learning models is one of my key strengths.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Data Science
+  description: Experienced with data science techniques from storage of Big Data (mongoDB, MySQL), transforming data (Apache Spark), building models (Python, Pandas, SkLearn) to the visualization of data (d3.js).
+
+- skill: Autonomous Driving
+  description: I have more than 3 years of experience in developing autonomous driving software from perception (3D Object Detection) to control (MPC controller). I am expert in working with sensor data, creating ground truth datasets,
