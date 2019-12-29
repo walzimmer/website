@@ -23,28 +23,12 @@ resume_contact_address:         "Jägerstraße 29A, 82008 Unterhaching"
 resume_header_contact_info:     "Jägerstraße 29A, 82008 Unterhaching • (+49) 173 8167062 • walterzimmer@gmx.de"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I'm an Autonomous Driving Research Engineer and I'm particularly interested in improving safety of autonomous vehicles. I have focused on Machine Learning at the Technical University of Munich, Delft University of Technology and the University of California in San Diego, where I developed Machine Learning algorithms for a Tesla Model S. Using my programming skills I love to solve hard research problems and develop new approaches. My strength is in understanding the scene around a self-driving car (perception) and particularly 3D Object Detection. I have worked with sensor data at AUDI at the sensor data fusion department and was researcher at the Laboratory of Intelligent and Safe Automobiles (LISA) in San Diego.
-
-Expert knowledge in:
-<ul class='resume-item-list'>
-  <li>Machine Learning, Deep Learning, Robotics</li>
-  <li>Python, TensorFlow, Keras, Convolutional Neural Networks (CNNs)</li>
-  <li>C++, Java, Object Oriented Design, Design Pattern</li>
-  <li></li>
-  <li>Test Driven Development (TDD), Continuous Integration</li>
-  <li>GPU programming</li>
-  <li>Docker</li>
-  <li>Algorithm Design</li>
- </ul>
-
-Experience in:</br>
-                         - working with sensor data (camera, LiDAR, radar, IMU, GPS)</br>
-                         - Sensor Fusion (camera, LiDAR)</br>
-                         - ROS</br>
-                         - Kubernetes</br>
-                         - AWS, Google Cloud</br>
-                         - Spark</br>
-                         - SCRUM, agile processes</p>"</br>
+resume_header_intro: "<p>I'm an Autonomous Driving Research Engineer and I'm particularly interested in improving safety of autonomous vehicles. I have focused on Machine Learning at the Technical University of Munich, Delft University of Technology and the University of California in San Diego, where I developed Machine Learning algorithms for a Tesla Model S. Using my programming skills I love to solve hard research problems and develop new approaches. My strength is in understanding the scene around a self-driving car (perception) and particularly 3D Object Detection. I have worked with sensor data at AUDI at the sensor data fusion department and was researcher at the Laboratory of Intelligent and Safe Automobiles (LISA) in San Diego. I have expert knowledge in: Machine Learning, Deep Learning, Robotics, Python, TensorFlow, Keras, Convolutional Neural Networks (CNNs), C++, Java, Object Oriented Design, Design Pattern<, Test Driven Development (TDD), Continuous Integration, GPU programming, Docker and Algorithm Design. I have experience in working with sensor data (camera, LiDAR, radar, IMU, GPS), Sensor Fusion (camera, LiDAR),
+                         - ROS
+                         - Kubernetes
+                         - AWS, Google Cloud </br>
+                         - Spark
+                         - SCRUM, agile processes</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
