@@ -1,5 +1,4 @@
 # Jobs
-# VP of Global Communications
 - company: STTech GmbH, Munich
   position: Systems Engineer
   duration: Apr, 2019 &mdash; Present
@@ -10,7 +9,6 @@
             <li>Implementation of automatic recommender systems using neural networks (Python, Deep Graph Library (DGL))</li>
            </ul>
 
-# Director of Digital Stratgy
 - company: Audi AG, Ingolstadt
   position: Working student
   duration:  Mar, 2018 &mdash; Sept, 2018
@@ -20,7 +18,6 @@
            </ul>
 
 
-# Communications Coordinator
 - company: Siemens AG, Munich
   position: Research Assistant
   duration:   Oct, 2016  &mdash; Aug, 2017
@@ -28,3 +25,11 @@
             <li>Implementation of an admin dashboard for the visualization of parallel processes (NodeJS, AngularJS)</li>
             <li>Data pre-processing und extraction (JavaScript, JSON)</li>
           </ul>
+
+- company: SSI Schäfer IT Solutions GmbH, Giebelstadt
+  position: Software Engineer
+  duration:   Sept, 2013  &mdash; Feb, 2018
+  summary: <ul class="resume-item-list">
+    <li>Implementation of standalone and web-based 3D warehouse simulations (Java, OpenGL, LWJGL, WebGL, THREE.JS, WebSockets)</li>
+    <li>Data visualization (JavaScript, AngularJS, NodeJS, WebGL, d3.js)</li>
+    </ul>

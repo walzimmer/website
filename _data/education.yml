@@ -1,13 +1,52 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Visiting Scholar
+  uni: University of California in San Diego (UCSD), San Diego
+  year: Sep, 2018 &mdash; Mar, 2019
+#  awards:
+#    - award: Summa Cumme Laude graduate
+  summary: <ul class="resume-item-list">
+    <li>Autonomous Driving Researcher (Perception) in the Laboratory of Intelligent and Safe Automobiles (LISA), Prof. Trivedi</li>
+    <li>Development of a 3D Labeling Tool, 13,800 annotations/hour (JavaScript, NodeJS, AngularJS, TypeScript).</li>
+    <li>Labeled data recorded by a Tesla Model S (instrumentalized with 11 cameras and 1 LiDAR sensor).</li>
+    </ul>
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Master of Science, Computer Science
+  uni: Technical University of Munich (TUM), Munich
+  year: Sep, 2016 &mdash; Aug, 2018
+#  award: Most likely to succeed
+  summary: <ul class="resume-item-list">
+    <li>Focus on Autonomous Driving, Machine Learning, Deep Learning, Computer Vision, Robotics, Software Engineering</li>
+    <li>Presentation of the project 'Intelligent Garage Door Opening System' at the Living Lab Connected Mobility (LLCM) conference (Automatic opening of a garage door after successfully recognizing the license plate of your own vehicle using object detection. Garage door can be configured via a web application and smartphone app. (Python, JavaScript, NodeJS, AngularJS, Java)</li>
+    <li>Project in the area of Fleet Management 'Solving the Vehicle Routing Problem using Genetic Algorithms' (Minimizing the route, maximizing visited cities and 3 more constraints)</li>
+    </ul>
+
+- degree: Master’s thesis
+  uni: Audi AG, Ingolstadt
+  year: Mar, 2018 &mdash; Aug, 2018
+  summary: <ul class="resume-item-list">
+    <li>Correction of 3D labels using neural networks to improve the dataset</li>
+    <li><i>Automatic correction of 3D ground truth information for piloted driving functions based on Velodyne point clouds and camera images using Deep Learning methods</i>. Grade 1.3 (3.8/4.0).</li>
+    </ul>
+
+- degree: Study abroad
+  uni: Technical University of Delft (TUD), Delft
+  year: Sep, 2017 &mdash; Feb, 2018
+  summary: <ul class="resume-item-list">
+    <li>Passed 10 courses in Autonomous Driving and Machine Learning</li>
+    </ul>
+
+- degree: Bachelor studies, Computer Science
+  uni: Cooperative State University (DHBW), Mosbach
+  year: Sep, 2013 &mdash; Sep, 2016
+  summary: <ul class="resume-item-list">
+    <li>Focus on Machine Learning, Computer Vision and Software Engineering. ∅ 1.7 (3.6/4.0)</li>
+    <li>International experience during 6th semester, <i>International Program of Engineering</i>.</li>
+    <li>Student research project in the area of Genetic Algorithms (Machine Learning). 1.0 (4.0/4.0)</li>
+    </ul>
+
+- degree: Bachelor’s thesis
+  uni: SSI Schäfer IT Solutions GmbH, Giebelstadt
+  year: Jun, 2016 &mdash; Sep, 2016
+  summary: <ul class="resume-item-list">
+    <li><i>Development of a 3D Warehouse Editor (3D Rendering Engine) for Visualization of Intra-Logistic Warehouses</i>. Grade 1.9 (3.4/4.0)</li>
+    </ul>
