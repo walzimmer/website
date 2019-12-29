@@ -292,8 +292,9 @@
         {% for reference in site.data.references %}
         <div class="resume-item">
           <h3 class="resume-item-title" itemprop="award">{{ reference.reference}}</h3>
-          <h4 class="resume-item-details">{{ reference.organization }} &bull; {{ reference.year }}</h4>
-          <p class="resume-item-copy">{{ reference.summary }}</p>
+          <h4 class="resume-item-details">{{ reference.organization }}</h4>
+          <p class="resume-item-copy">{{ reference.phone }}</p>
+          <p class="resume-item-copy">{{ reference.mail }}</p>
         </div>
         {% endfor %}
 
