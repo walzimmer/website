@@ -61,9 +61,10 @@ resume_section_education:       true
 resume_section_projects:        true
 resume_section_hard_skills:          true
 resume_section_soft_skills:          true
+resume_section_publications:     true
 resume_section_awards:     true
 resume_section_links:           true
-resume_section_associations:    true
+resume_section_memberships:    true
 # resume_section_interests:       true
 
 # Resume social links
