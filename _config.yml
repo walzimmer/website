@@ -66,7 +66,8 @@ resume_section_awards:     true
 resume_section_certificates:     true
 resume_section_links:           false
 resume_section_memberships:    true
-# resume_section_interests:       true
+resume_section_references:    true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL

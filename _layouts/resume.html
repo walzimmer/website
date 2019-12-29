@@ -48,6 +48,10 @@
 
       </header>
 
+
+
+
+
       {% if site.resume_section_experience %}
       <!-- begin Experience -->
       <section class="content-section">
@@ -67,6 +71,9 @@
       </section>
       <!-- end Experience -->
       {% endif %}
+
+
+
 
 
       {% if site.resume_section_education %}
@@ -97,6 +104,9 @@
       {% endif %}
 
 
+
+
+
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
       <section class="content-section">
@@ -117,6 +127,9 @@
       <!-- end Projects -->
       {% endif %}
 
+
+
+
       {% if site.resume_section_hard_skills %}
       <!-- begin Skills -->
       <section class="content-section">
@@ -135,6 +148,9 @@
       <!-- end Skills -->
       {% endif %}
 
+
+
+
       {% if site.resume_section_soft_skills %}
       <!-- begin Skills -->
       <section class="content-section">
@@ -151,6 +167,9 @@
       </section>
       <!-- end Skills -->
       {% endif %}
+
+
+
 
       {% if site.resume_section_publications %}
       <!-- begin Publications -->
@@ -169,11 +188,14 @@
         {% endfor %}
 
       </section>
-      <!-- end Recognition -->
+      <!-- end Publications -->
       {% endif %}
 
+
+
+
       {% if site.resume_section_awards %}
-      <!-- begin Recognition -->
+      <!-- begin awards -->
       <section class="content-section">
 
         <header class="section-header">
@@ -188,8 +210,10 @@
         </div>
         {% endfor %}
       </section>
-      <!-- end Certificates -->
+      <!-- end awards -->
       {% endif %}
+
+
 
       {% if site.resume_section_certificates %}
       <!-- begin Certificates-->
@@ -211,6 +235,8 @@
       <!-- end Certificates -->
       {% endif %}
 
+
+
       {% if site.resume_section_memberships %}
       <!-- begin Associations -->
       <section class="content-section">
@@ -231,6 +257,9 @@
       <!-- end Associations -->
       {% endif %}
 
+
+
+
       {% if site.resume_section_interests %}
       <!-- begin Interests -->
       <section class="content-section">
@@ -250,6 +279,29 @@
       </section>
       <!-- end Interests -->
       {% endif %}
+
+
+      {% if site.resume_section_references %}
+      <!-- begin references-->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>References</h2>
+        </header>
+
+        {% for reference in site.data.references %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="award">{{ reference.reference}}</h3>
+          <h4 class="resume-item-details">{{ reference.organization }} &bull; {{ reference.year }}</h4>
+          <p class="resume-item-copy">{{ reference.summary }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Certificates -->
+      {% endif %}
+
+
 
 <!--      {% if site.resume_section_links %}-->
 <!--      &lt;!&ndash; begin Links &ndash;&gt;-->
