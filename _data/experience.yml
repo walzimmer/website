@@ -1,6 +1,6 @@
 # Jobs
 # VP of Global Communications
-- company: STTech GmbH
+- company: STTech GmbH, Munich
   position: Systems Engineer
   duration: Apr, 2019 &mdash; Present
   summary: <ul class="resume-item-list">
@@ -11,14 +11,20 @@
            </ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Audi AG, Ingolstadt
+  position: Working student
+  duration:  Mar, 2018 &mdash; Sept, 2018
+  summary: <ul class="resume-item-list">
+              <li>3D Object Detection in point cloud data. Algorithm based on PointNet++, AVOD (Python, TensorFlow)</li>
+              <li>Sensor data processing and fusion (camera images, LiDAR point clouds). Python, C++, ADTF, Docker</li>
+           </ul>
 
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Siemens AG, Munich
+  position: Research Assistant
+  duration:   Oct, 2016  &mdash; Aug, 2017
+  summary: <ul class="resume-item-list">
+            <li>Implementation of an admin dashboard for the visualization of parallel processes (NodeJS, AngularJS)</li>
+            <li>Data pre-processing und extraction (JavaScript, JSON)</li>
+          </ul>
