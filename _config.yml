@@ -23,14 +23,13 @@ resume_contact_address:         "Jägerstraße 29A, 82008 Unterhaching"
 resume_header_contact_info:     "Jägerstraße 29A, 82008 Unterhaching • (+49) 173 8167062 • walterzimmer@gmx.de"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I'm an Autonomous Driving Research Engineer and I'm particularly interested in improving safety of autonomous vehicles. I have focused on Machine Learning at the Technical University of Munich, Delft University of Technology and the University of California in San Diego, where I developed Machine Learning algorithms for a Tesla Model S. Using my programming skills I love to solve hard research problems and develop new approaches. My strength is in understanding the scene around a self-driving car (perception) and particularly 3D Object Detection. I have worked with sensor data at AUDI at the sensor data fusion department and was researcher at the Laboratory of Intelligent and Safe Automobiles (LISA) in San Diego.</br>
+resume_header_intro: "<p>I'm an Autonomous Driving Research Engineer and I'm particularly interested in improving safety of autonomous vehicles. I have focused on Machine Learning at the Technical University of Munich, Delft University of Technology and the University of California in San Diego, where I developed Machine Learning algorithms for a Tesla Model S. Using my programming skills I love to solve hard research problems and develop new approaches. My strength is in understanding the scene around a self-driving car (perception) and particularly 3D Object Detection. I have worked with sensor data at Audi at the sensor data fusion department and was researcher at the Laboratory of Intelligent and Safe Automobiles (LISA) in San Diego.</br></br>
 
 I have expert knowledge in:
 <ul class='resume-item-list'>
   <li>Machine Learning, Deep Learning, Robotics</li>
   <li>Python, TensorFlow, Keras, Convolutional Neural Networks (CNNs)</li>
   <li>C++, Java, Object Oriented Design, Design Pattern</li>
-  <li></li>
   <li>Test Driven Development (TDD), Continuous Integration</li>
   <li>GPU programming</li>
   <li>Docker</li>
@@ -42,7 +41,7 @@ Experience in:
   <li>working with sensor data (camera, LiDAR, radar, IMU, GPS)</li>
   <li>Sensor Fusion (camera, LiDAR)</li>
   <li>ROS</li>
-  <li>Kubernetes<<li>
+  <li>Kubernetes<li>
   <li>AWS, Google Cloud</li>
   <li>Spark</li>
   <li>SCRUM, agile processes</li>
