@@ -1,15 +1,15 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Association of German Engineers (VDI)
-  role: Member
-  year: 2018 &mdash; Present
-  url: https://www.vdi.de/en/home
-  summary: VDI is a strong network of engineers that exists for more than 160 years.
+#- organization: Association of German Engineers (VDI)
+#  role: Member
+#  year: 2018 &mdash; Present
+#  url: https://www.vdi.de/en/home
+#  summary: VDI is a strong network of engineers that exists for more than 160 years.
 
 
-- organization: IEEE
-  role: Member
-  year: 2018 &mdash; Present
-  url: https://www.ieee.org
-  summary: IEEE is the world largest technical professional organization for the advancement of technology.
+#- organization: IEEE
+#  role: Member
+#  year: 2018 &mdash; Present
+#  url: https://www.ieee.org
+#  summary: IEEE is the world largest technical professional organization for the advancement of technology.

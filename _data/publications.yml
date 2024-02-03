@@ -1,10 +1,64 @@
+- publication: ActiveAnno3D - An Active Learning Framework for Multi-Modal 3D Object Detection
+  organization: IEEE Intelligent Vehicles Symposium (IV'24) (under review)
+  year: 2024
+  summary: Ahmed Ghita, Bjørk Antoniussen, Walter Zimmer, Ross Greer, Christian Creß, Andreas Møgelmose, Mohan M. Trivedi, Alois C. Knoll
+
+- publication: TUMTraf Event: Calibration and Fusion Resulting in a Dataset for Roadside Event-Based and RGB Cameras
+  organization: IEEE Transactions on Intelligent Vehicles (T-IV'23) (under revision)
+  year: 2023
+  summary: Christian Creß, Walter Zimmer, Nils Purschke, Bach Ngoc Doan, Venkatnarayanan Lakshminarasimhan, Leah Strand, Alois C Knoll
+
+- publication: Transformation Decoupling Strategy based on Screw Theory for Deterministic Point Cloud Registration with Gravity Prior
+  organization: TPAMI (under revision)
+  year: 2023
+  summary: Xinyi Li, Zijian Ma, Yinlong Liu, Walter Zimmer, Hu Cao, Feihu Zhang, Alois Knoll
+
+- publication: TUMTraf Intersection Dataset: All You Need for Urban 3D Camera-LiDAR Roadside Perception
+  organization: IEEE International Transportation Systems Conference (ITSC'23) (accepted)
+  year: 2023
+  summary: Walter Zimmer, Christian Creß, Huu Tung Nguyen, Alois C Knoll
+
+- publication: InfraDet3D: Multi-modal 3D Object Detection based on Roadside Infrastructure Camera and LiDAR Sensors
+  organization: IEEE Intelligent Vehicles Symposium (IV'23) (accepted)
+  year: 2023
+  summary: Walter Zimmer, Joseph Birkner, Marcel Brucker, Huu Tung Nguyen, Stefan Petrovski, Bohan Wang, Alois C Knoll
+
+- publication: Real-time and Robust 3D Object Detection with Roadside LiDARs
+  organization: Springer Nature Singapore Pte Ltd. (accepted)
+  year: 2023
+  summary: Walter Zimmer, Jialong Wu, Xingcheng Zhou, Alois C Knoll
+
+- publication: AUTOtech. agil: Architecture and Technologies for Orchestrating Automotive Agility
+  organization: IEEE International Conference on Computer Vision Workshop (ICCV'23) (accepted)
+  year: 2023
+  summary: Raphael van Kempen, Walter Zimmer, Christian Creß, Xingcheng Zhou, ..., Alois Knoll, Lutz Eckstein
+
+- publication: Multi-Task Consistency for Active Learning
+  organization: IEEE International Conference on Computer Vision Workshop (ICCV'23) (accepted)
+  year: 2023
+  summary: Aral Hekimoglu, Philipp Friedrich, Walter Zimmer, Michael Schmidt, Alvaro Marcos-Ramiro, Alois Knoll
+
+- publication: A9-dataset: Multi-sensor Infrastructure-based Dataset for Mobility Research
+  organization: IEEE Intelligent Vehicles Symposium (IV'22) (accepted)
+  year: 2022
+  summary: Christian Creß, Walter Zimmer, Leah Strand, Maximilian Fortkord, Siyi Dai, Venkatnarayanan Lakshminarasimhan, Alois Knoll
+
+- publication: Real-time and Robust 3D Object Detection within Road-side LiDARs using Domain Adaptation
+  organization: British Machine Vision Conference (BMVC'22) (rejected)
+  year: 2022
+  summary: Walter Zimmer, Marcus Grabler, Alois Knoll
+
+- publication: A Survey of Robust 3D Object Detection Methods in Point Clouds
+  organization: Intelligent Vehicles Symposium (IV'20) (rejected)
+  year: 2020
+  summary: Walter Zimmer, Emec Ercelik, Xingcheng Zhou, Xavier Jair Diaz Ortiz, Alois Knoll
+
 - publication: 3D BAT - A Semi-Automatic, Web-based 3D Annotation Toolbox for Full-Surround, Multi-Modal Data Streams
-  organization: Intelligent Vehicles (IV) Conference
+  organization: Intelligent Vehicles Symposium (IV'19) (accepted)
   year: 2019
   summary: Walter Zimmer, Akshay Rangesh and Mohan Trivedi
 
-
 - publication: Solving the Container Shipment Problem with the Focus on Special Goods (Dangerous and Fragile) Using Genetic Algorithms
-  organization: Symposium Series on Computational Intelligence
+  organization: IEEE Symposium Series on Computational Intelligence 2016 (SSCI'16) (rejected)
   year: 2016
   summary: Walter Zimmer, Carsten Mueller

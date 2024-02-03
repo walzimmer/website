@@ -17,34 +17,34 @@ resume_title:                   "Machine Learning Researcher"
 resume_contact_email:           "walterzimmer@gmx.de"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "(+49) 173 8167062"
-resume_contact_address:         "Jägerstraße 29A, 82008 Unterhaching"
+resume_contact_telephone:       "(+49) 015 678 365 392"
+resume_contact_address:         "Freisinger Landstrasse 17, 80939 Freimann, Germany"
 
-resume_header_contact_info:     "Jägerstraße 29A, 82008 Unterhaching • (+49) 173 8167062 • walterzimmer@gmx.de"
+resume_header_contact_info:     "Freisinger Landstrasse 17, 80939 Freimann • (+49) 015 678 365 392 • walterzimmer@gmx.de"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I'm an Autonomous Driving Research Engineer and I'm particularly interested in improving safety of autonomous vehicles. I have focused on Machine Learning at the Technical University of Munich, Delft University of Technology and the University of California in San Diego, where I developed Machine Learning algorithms for a Tesla Model S. Using my programming skills I love to solve hard research problems and develop new approaches. My strength is in understanding the scene around a self-driving car (perception) and particularly 3D Object Detection. I have worked with sensor data at Audi at the sensor data fusion department and was researcher at the Laboratory of Intelligent and Safe Automobiles (LISA) in San Diego.</br></br>
+resume_header_intro: "<p>I work as an Autonomous Driving Research Engineer, and my passion lies in making autonomous vehicles safer. I've dived deep into the world of Machine Learning, during my academic journey at the Cooperative State University, the Technical University of Munich, Delft University of Technology and the University of California in San Diego. Using my programming skills I love to solve hard research problems and develop new approaches. My strength lies in understanding the scene around self-driving cars, especially in 3D Object Detection. I have got hands-on experience dealing with sensor data at the the sensor data fusion department of Audi, where I have contributed to generate accurate ground truth datasets. Additionally, I got accepted for a visiting scholar position abroad at the Laboratory of Intelligent and Safe Automobiles (LISA) in San Diego (UCSD). Here, I have developed a 3D annotation toolbox to label LiDAR and camera data of a Tesla Model S, showcasing my commitment to pushing boundaries of this technology.</br></br>
 
-I have expert knowledge in:
+Technical skills:
 <ul class='resume-item-list'>
-  <li>Machine Learning, Deep Learning, Robotics</li>
-  <li>Python, TensorFlow, Keras, Convolutional Neural Networks (CNNs)</li>
-  <li>C++, Java, Object Oriented Design, Design Pattern</li>
-  <li>Test Driven Development (TDD), Continuous Integration</li>
-  <li>GPU programming</li>
-  <li>Docker</li>
-  <li>Algorithm Design</li>
- </ul>
+    <li>Autonomous Driving, Deep Learning, Computer Vision</li>
+    <li>Python, PyTorch3D, Open3D </li>
+    <li>C++, TensorFlow 3D</li>
+    <li>Test Driven Development (TDD), PyTest, Google Test</li>
+    <li>Continuous Integration, Docker, Kubernetes</li>
+    <li>ROS, Sensor Fusion (camera, LiDAR)</li>
+    <li>SCRUM, Agile Development</li>
+    <li>Algorithm Design, Research, Technical Writing</li>
+</ul>
 
-Experience in:
+Soft skills:
 <ul class='resume-item-list'>
-  <li>working with sensor data (camera, LiDAR, radar, IMU, GPS)</li>
-  <li>Sensor Fusion (camera, LiDAR)</li>
-  <li>ROS</li>
-  <li>Kubernetes</li>
-  <li>AWS, Google Cloud</li>
-  <li>Spark</li>
-  <li>SCRUM, agile processes</li>
+<li>Problem Solving</li>
+    <li>Teamwork, Team Leadership</li>
+    <li>Decision Making</li>
+    <li>Project Management, Time Management</li>
+    <li>Public Speaking, Teaching, Networking</li>
+    <li>Attention to Detail</li>
 </ul>
 </p>"
 

@@ -1,12 +1,12 @@
 # Skills
 - skill: Software Engineering
-  description: Having more than 10 years of experience in Software Development, I am confident with Software Architecture, Object Oriented Design, Design Patterns, Test Driven Development (TDD), Continuous Integration and Delivery (CI/CD).
+  description: Having more than 15 years of experience in Software Development, I am confident with Software Architecture, Object Oriented Design, Design Patterns, Test Driven Development (TDD), Continuous Integration and Delivery (CI/CD).
 
 - skill: Machine Learning
-  description: I am experienced Machine Learning research engineer (>4 years of experience). Developing Deep Neural Network (DNN) architectures, optimizing algorithms through hyperparameter tuning, training and evaluating machine learning models is one of my key strengths.
+  description: I am experienced Machine Learning research engineer with more than nine years of experience. Developing novel architectures, optimizing algorithms through hyperparameter tuning, training and evaluating machine learning models is one of my key strengths.
 
 - skill: Data Science
-  description: Experienced with data science techniques from storage of Big Data (mongoDB, MySQL), transforming data (Apache Spark), building models (Python, Pandas, SkLearn) to the visualization of data (d3.js).
+  description: Experienced with data science techniques from storage of large data, transforming/converting data, curating ground truth datasets, building models (Python, PyTorch) to the visualization of data (open3d).
 
 - skill: Autonomous Driving
-  description: I have more than 3 years of experience in developing autonomous driving software from perception (3D Object Detection) to control (MPC controller). I am expert in working with sensor data, creating ground truth datasets,
+  description: I have more than eight years of experience in developing autonomous driving software from perception (3D object detection) to prediction. I am expert in working with sensor data, creating ground truth datasets, and developing machine learning models for autonomous driving.

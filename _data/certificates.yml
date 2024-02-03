@@ -1,7 +1,52 @@
-- certificate: Poster Presentation Certificate
-  organization: Intelligent Vehicles (IV) conference, Paris
+- certificate: ADAS Validation
+  organization: VDI
+  year: 2023
+  summary: From simulation to real-world testing: Learn how to validate ADAS functions and systems. Understand the requirements for ADAS validation and the methods for testing and validation. Get to know the challenges of ADAS validation and the methods for testing and validation.
+
+- certificate: MLOps - Operationalizing Data Science Notebooks
+  organization: Technical University of Munich (TUM), Munich
+  year: 2022
+  summary: Develop an understanding of MLOps and the required steps to bring a reproducible and traceable ML model to production including an example project using open-source MLOps tools.
+
+- certificate: Visual Perception for Self-Driving Cars
+  organization: Coursera
+  year: 2021
+  summary: Work with the pinhole camera model, and perform intrinsic and extrinsic camera calibration. Detect, describe and match image features and design your own convolutional neural networks. Apply these methods to visual odometry, object detection and tracking. Apply semantic segmentation for drivable surface estimation.
+
+- certificate: Introduction to Self-Driving Cars
+  organization: Coursera
+  year: 2021
+  summary: Understand commonly used hardware used for self-driving cars. Identify the main components of the self-driving software stack. Program vehicle modelling and control. Analyze the safety frameworks and current industry practices for vehicle development.
+
+- certificate: Scrum Basics and Scrum Master Exam Preparation
+  organization: Technical University of Munich (TUM), Munich
+  year: 2021
+  summary: The seminar included contents from the following domains: 1) Introduction to Agile Practices. 2) The Scrum Framework 2.1) Scrum Artifacts 2.2) The Scrum Team 2.3) Scrum Events 2.4) Further Topics 3) Sample Exam Questions and Exercises
+
+- certificate: Scientific Paper Writing
+  organization: Technical University of Munich (TUM), Munich
+  year: 2021
+  summary: Analyzing and evaluating sample papers. Reflecting on your own writing process. Making critical judgements on your own writing. Creating a repertoire of effective self-editing tools.
+
+- certificate: Goal Setting Skills
+  organization: Udemy
+  year: 2020
+  summary: Learn how to set and achieve your goals.
+
+- certificate: Modern C++ Software Design
+  organization: Technical University of Munich (TUM), Munich
+  year: 2020
+  summary: Advanced C++ training on object-oriented (OO) software design with the C++ programming language. The focus of the training is put on the essential OO and C++ software development principles, concepts, idioms, and best practices, which enable programmers to create professional, high-quality code. The course teaches guidelines to develop mature, robust, and maintainable C++ code and combines lectures and hands-on sessions.
+
+- certificate: Certificate of Participation
+  organization: 31st IEEE Intelligent Vehicles Symposium (IV) 2020, Las Vegas
+  year: 2020
+  summary: Attending the IV'20 conference (remote).
+
+- certificate: Certificate of Participation
+  organization: 30th IEEE Intelligent Vehicles Symposium (IV) 2020, Paris
   year: 2019
-  summary: Presenting research work (3D Labeling Tool) at the IV2019 conference
+  summary: Presenting research work (3D Labeling Tool) at the IV'19 conference
 
 - certificate: Entrepreneurship Certificate Program
   organization: University of California in San Diego (UCSD), San Diego
@@ -38,7 +83,6 @@
   year: 2017
   summary: DAAD English language certificate, C1 level
 
-
 - certificate: Intercultural competence & communication workshop
   organization: Technical University of Munich (TUM), Munich
   year: 2016
@@ -46,7 +90,7 @@
 
 - certificate: Hackathon
   organization: Technical University of Munich (TUM), Munich
-  year: 2016, 2019
+  year: 2016, 2019, 2022
   summary: TUM Hackathon (HackaTUM). Develop and present a prototype to several companies. Smart Garage Door (2016), roads.sexy (2019, winner)
 
 - certificate: International Program in Engineering (IPE)
@@ -62,4 +106,4 @@
 - certificate: ACX Application Developer
   organization: SSI Schäfer IT Solutions GmbH
   year: 2013
-  summary: Certified Java Application Developer.
+  summary: Certified Java Application Developer
