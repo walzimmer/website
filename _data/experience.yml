@@ -4,15 +4,15 @@
   duration: March, 2020 &mdash; March, 2024
   summary: <ul class="resume-item-list">
 
-  <li>Working in 2 research projects: Providentia++ (BMDV project), AUTOTech.agil (BMBF project)</li>
+  <li>Working in 2 research projects. 1) Providentia++ (BMDV project), 2) AUTOTech.agil (BMBF project)</li>
   <li>Focus on 3D perception (3D object detection) for autonomous driving (Python, C++, ROS, PyTorch3D, Open3D)</li>
   <li>Creating a digital twin of the traffic using roadside camera and LiDAR sensors (Python, C++, ROS, PyTorch, CARLA)</li>
   <li>20 travels (conferences, talks, workshops, advanced trainings)</li>
-  <li>Attending 4 trade fairs: IAA'21, Automatica'22, IAA'23, Automatica'23</li>
-  <li>Participation in 3 hackathons: hackaTUM'19 (winner, certificate), wirvsvirushackathon'20 (certificate), hackaTUM'22 (certificate)</li>
-  <li>3 training certificates: Self-Driving Cars (udacity), Visual Perception for Self-Driving Cars (udacity), VDI ADAS Validation</li>
-  <li>3 talks: ITS World Congress 2021, ITSC'23 panel discussion, Munich Data Geeks 2023</li>
-  <li>Open source software development: >600 github stars</li>
+  <li>Attending 4 trade fairs. 1) IAA'21 2) Automatica'22 3) IAA'23 4) Automatica'23</li>
+  <li>Participation in 3 hackathons. 1) HackaTUM'19 (winner, certificate) 2) wirvsvirushackathon'20 (certificate) 3) HackaTUM'22 (certificate)</li>
+  <li>3 training certificates. 1) Self-Driving Cars (udacity) 2) Visual Perception for Self-Driving Cars (udacity) 3) VDI ADAS Validation</li>
+  <li>3 talks. 1) ITS World Congress 2021 2) ITSC'23 panel discussion 3) Munich Data Geeks 2023</li>
+  <li>Open source software development with >600 github stars</li>
 </ul>
 
 - company: STTech GmbH, Munich
