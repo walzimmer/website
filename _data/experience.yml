@@ -3,44 +3,43 @@
   position: Research Assistant
   duration: March, 2020 &mdash; March, 2024
   summary: <ul class="resume-item-list">
-
-  <li>Working in 2 research projects. 1) Providentia++ (BMDV project), 2) AUTOTech.agil (BMBF project)</li>
-  <li>Focus on 3D perception (3D object detection) for autonomous driving (Python, C++, ROS, PyTorch3D, Open3D)</li>
-  <li>Creating a digital twin of the traffic using roadside camera and LiDAR sensors (Python, C++, ROS, PyTorch, CARLA)</li>
-  <li>20 travels (conferences, talks, workshops, advanced trainings)</li>
-  <li>Attending 4 trade fairs. 1) IAA'21 2) Automatica'22 3) IAA'23 4) Automatica'23</li>
-  <li>Participation in 3 hackathons. 1) HackaTUM'19 (winner, certificate) 2) wirvsvirushackathon'20 (certificate) 3) HackaTUM'22 (certificate)</li>
-  <li>3 training certificates. 1) Self-Driving Cars (udacity) 2) Visual Perception for Self-Driving Cars (udacity) 3) VDI ADAS Validation</li>
-  <li>3 talks. 1) ITS World Congress 2021 2) ITSC'23 panel discussion 3) Munich Data Geeks 2023</li>
-  <li>Open source software development with >600 github stars</li>
-</ul>
+    <li>Working in 2 research projects. 1) Providentia++ (BMDV project), 2) AUTOTech.agil (BMBF project)</li>
+    <li>Focus on 3D perception (3D object detection) for autonomous driving (Python, C++, ROS, PyTorch3D, Open3D)</li>
+    <li>Creating a digital twin of the traffic using roadside camera and LiDAR sensors (Python, C++, ROS, PyTorch, CARLA)</li>
+    <li>20 travels (conferences, talks, workshops, advanced trainings)</li>
+    <li>Attending 4 trade fairs. 1) IAA'21 2) Automatica'22 3) IAA'23 4) Automatica'23</li>
+    <li>Participation in 3 hackathons. 1) HackaTUM'19 (winner, certificate) 2) wirvsvirushackathon'20 (certificate) 3) HackaTUM'22 (certificate)</li>
+    <li>3 training certificates. 1) Self-Driving Cars (udacity) 2) Visual Perception for Self-Driving Cars (udacity) 3) VDI ADAS Validation</li>
+    <li>3 talks. 1) ITS World Congress 2021 2) ITSC'23 panel discussion 3) Munich Data Geeks 2023</li>
+    <li>Open source software development with >600 github stars</li>
+    </ul>
 
 - company: STTech GmbH, Munich
   position: Systems Engineer
   duration: Apr, 2019 &mdash; March, 2020
   summary: <ul class="resume-item-list">
-            <li>Development of an intelligent self-driving highway agent (Python)</li>
-            <li>Implementation of complex traffic scenarios in a 3D vehicle simulator (Python)</li>
-            <li>Calibration of cameras for vehicles and robots (Python, C++)</li>
-            <li>Implementation of automatic recommender systems using neural networks (Python, Deep Graph Library (DGL))</li>
-           </ul>
+    <li>Development of an intelligent self-driving highway agent (Python)</li>
+    <li>Implementation of complex traffic scenarios in a 3D vehicle simulator (Python)</li>
+    <li>Calibration of cameras for vehicles and robots (Python, C++)</li>
+    <li>Implementation of automatic recommender systems using neural networks (Python, Deep Graph Library (DGL))</li>
+    </ul>
 
 - company: Audi AG, Ingolstadt
   position: Working student
   duration:  Mar, 2018 &mdash; Sept, 2018
   summary: <ul class="resume-item-list">
-              <li>3D Object Detection in point cloud data. Algorithm based on PointNet++, AVOD (Python, TensorFlow)</li>
-              <li>Sensor data processing and fusion (camera images, LiDAR point clouds). Python, C++, ADTF, Docker</li>
-           </ul>
+    <li>3D Object Detection in point cloud data. Algorithm based on PointNet++, AVOD (Python, TensorFlow)</li>
+    <li>Sensor data processing and fusion (camera images, LiDAR point clouds). Python, C++, ADTF, Docker</li>
+    </ul>
 
 
 - company: Siemens AG, Munich
   position: Research Assistant
   duration:   Oct, 2016  &mdash; Aug, 2017
   summary: <ul class="resume-item-list">
-            <li>Implementation of an admin dashboard for the visualization of parallel processes (NodeJS, AngularJS)</li>
-            <li>Data pre-processing und extraction (JavaScript, JSON)</li>
-          </ul>
+    <li>Implementation of an admin dashboard for the visualization of parallel processes (NodeJS, AngularJS)</li>
+    <li>Data pre-processing und extraction (JavaScript, JSON)</li>
+    </ul>
 
 - company: SSI Schäfer IT Solutions GmbH, Giebelstadt
   position: Software Engineer
