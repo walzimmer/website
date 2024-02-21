@@ -1,3 +1,8 @@
+- publication: <a src="https://arxiv.org/pdf/2402.07635.pdf">Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles</a>
+  organization: IEEE
+  year: 2024
+  summary: Rui Song, Chenwei Liang, Hu Cao, Zhiran Yan, Walter Zimmer, Markus Gross, Andreas Festag, Alois Knoll
+
 - publication: ActiveAnno3D - An Active Learning Framework for Multi-Modal 3D Object Detection
   organization: IEEE Intelligent Vehicles Symposium (IV'24) (under review)
   year: 2024
