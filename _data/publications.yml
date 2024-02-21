@@ -1,4 +1,4 @@
-- publication: Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles<li class="icon-link-item"><a href="https://arxiv.org/pdf/2402.07635.pdf" class="icon-link" itemprop="sameAs">{% include icons/icon-pdf.html %}</a></li>
+- publication: Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles<a href="https://arxiv.org/pdf/2402.07635.pdf"/>
   organization: IEEE
   year: 2024
   summary: Rui Song, Chenwei Liang, Hu Cao, Zhiran Yan, Walter Zimmer, Markus Gross, Andreas Festag, Alois Knoll

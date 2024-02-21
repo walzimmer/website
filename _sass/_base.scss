@@ -44,3 +44,11 @@ body{
     color: #fff;
     text-shadow: none;
 }
+
+a[href$=".pdf"]:before {
+width:32px;
+height:32px;
+     background:url('http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png');
+  display:inline-block;
+  content:' ';
+}
