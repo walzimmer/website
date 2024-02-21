@@ -7,12 +7,12 @@
 #    - award: Summa Cumme Laude graduate
   summary: <ul class="resume-item-list">
     <li>PhD Thesis - Advanced 3D Perception for Autonomous Driving (available soon)</li>
-    <li>Attending 7 IEEE conferences - IV'19 (poster presentation), IV'20 (virtual attendance), IROS'20 (virtual attendance), IV'21 (virtual attendance), IV'22 (oral presentation), IV'23 (oral presentation), ITSC'23 (oral presentation, best student paper award)</li>
+    <li>Attending 8 IEEE conferences - IV'19 (poster presentation), IV'20 (virtual attendance), IROS'20 (virtual attendance), IV'21 (virtual attendance), IV'22 (oral presentation), IV'23 (oral presentation), ITSC'23 (oral presentation, best student paper award), IV'24</li>
     <li>Attending 6 non-IEEE conferences - TechAD'21, MobilTUM'22 (virtual presentation), VDI'22 (Driver Assistance Systems), ITS World Congress, Tagung Autonomes Fahren 2022, VDI'23 (Environment Perception)</li>
-    <li>6 peer-reviewed accepted conference publications (5 first author), 4 journal papers under revision, 2 papers under review</li>
-    <li>Reviewer for 11 IEEE conferences (IV'19, IV'20, IV'21, ITSC'21, IV'22, ITSC'22, IV'23, ITSC'23, ICCV'23, IV'24, CVPR'24) and 3 IEEE journals (RA-L'23, T-ITS'23, T-IV'24). In total 44 paper were reviewed.</li>
-    <li>> 120 paper citations on Google Scholar</li>
-    <li>Organization of 3 IEEE conference workshops - IV'21 (virtual), IV'23, IV'24</li>
+    <li>Author of 17 papers (10 first author). 6 peer-reviewed accepted conference publications (5 first author), 1 accepted peer-reviewed non-IEEE publication, 4 journal papers under revision, 1 conference paper under review (first author), 2 conference paper under rebuttal (1 first author), 3 conference paper under revision (3 first author)</li>
+    <li>Reviewer for 11 IEEE conferences (IV'19, IV'20, IV'21, ITSC'21, IV'22, ITSC'22, IV'23, ITSC'23, ICCV'23, IV'24, CVPR'24) and 3 IEEE journals (RA-L'23, T-ITS'23, T-IV'24). In total 51 paper were reviewed.</li>
+    <li>> 150 paper citations on Google Scholar</li>
+    <li>Organization of 4 IEEE conference workshops - IV'21 (virtual), IV'23, IV'24, ECCV'24</li>
     <li>Attending 8 graduate school courses. 1) Develop your Entrepreneurial Thinking, 2) SCRUM Professional (certificate) 3) C++ Software Design Patterns (certificate) 4) Leadership seminar 5) Scientific Paper Writing (certificate), 6) MLOps (certificate) 7) Dissertation Writing Workshop 8) Leadership seminar</li>
     <li>2 PhD retreats</li>
     <li>Attending 1 summer school - DeepLearn'22 (certificate)</li>
@@ -29,7 +29,7 @@
 #    - award: Summa Cumme Laude graduate
   summary: <ul class="resume-item-list">
     <li>Autonomous Driving Researcher (Perception) in the Laboratory of Intelligent and Safe Automobiles (LISA), Prof. Trivedi</li>
-    <li>Development of a 3D Labeling Tool, 13,800 annotations/hour (JavaScript, NodeJS, AngularJS, TypeScript).</li>
+    <li>Development and publication of a 3D Labeling Tool (IV'19), 13,800 annotations/hour (JavaScript, NodeJS, AngularJS, TypeScript).</li>
     <li>Labeled data recorded by a Tesla Model S (instrumentalized with 11 cameras and 1 LiDAR sensor).</li>
     </ul>
 
