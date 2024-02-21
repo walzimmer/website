@@ -1,69 +1,69 @@
-- publication: Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles<a href="https://arxiv.org/pdf/2402.07635.pdf"><img src="_assets/icons/icon-pdf.svg" alt="Image" /></a>
+- publication: Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles<a class="nounderline" href="https://arxiv.org/pdf/2402.07635.pdf"><img src="_assets/icons/icon-pdf.svg" alt="Image" /></a>
   organization: IEEE
   year: 2024
   summary: Rui Song, Chenwei Liang, Hu Cao, Zhiran Yan, Walter Zimmer, Markus Gross, Andreas Festag, Alois Knoll
 
-- publication: ActiveAnno3D - An Active Learning Framework for Multi-Modal 3D Object Detection<a style="text-decoration: none;" href="https://arxiv.org/pdf/2402.03235.pdf"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
+- publication: ActiveAnno3D - An Active Learning Framework for Multi-Modal 3D Object Detection<a class="nounderline" href="https://arxiv.org/pdf/2402.03235.pdf"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
   organization: IEEE Intelligent Vehicles Symposium (IV'24) (under review)
   year: 2024
   summary: Ahmed Ghita, Bjørk Antoniussen, Walter Zimmer, Ross Greer, Christian Creß, Andreas Møgelmose, Mohan M. Trivedi, Alois C. Knoll
 
-- publication: TUMTraf Event - Calibration and Fusion Resulting in a Dataset for Roadside Event-Based and RGB Cameras<a style="text-decoration: none;" href="https://arxiv.org/pdf/2401.08474.pdf"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
+- publication: TUMTraf Event - Calibration and Fusion Resulting in a Dataset for Roadside Event-Based and RGB Cameras<a class="nounderline" href="https://arxiv.org/pdf/2401.08474.pdf"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
   organization: IEEE Transactions on Intelligent Vehicles (T-IV'24) (under revision)
   year: 2023
   summary: Christian Creß, Walter Zimmer, Nils Purschke, Bach Ngoc Doan, Venkatnarayanan Lakshminarasimhan, Leah Strand, Alois C Knoll
 
-- publication: Transformation Decoupling Strategy based on Screw Theory for Deterministic Point Cloud Registration with Gravity Prior<a style="text-decoration: none;" href="https://arxiv.org/pdf/2311.01432.pdf"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
+- publication: Transformation Decoupling Strategy based on Screw Theory for Deterministic Point Cloud Registration with Gravity Prior<a class="nounderline" href="https://arxiv.org/pdf/2311.01432.pdf"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
   organization: TPAMI (under revision)
   year: 2024
   summary: Xinyi Li, Zijian Ma, Yinlong Liu, Walter Zimmer, Hu Cao, Feihu Zhang, Alois Knoll
 
-- publication: TUMTraf Intersection Dataset - All You Need for Urban 3D Camera-LiDAR Roadside Perception<a style="text-decoration: none;" href="https://ieeexplore.ieee.org/abstract/document/10422289"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
+- publication: TUMTraf Intersection Dataset - All You Need for Urban 3D Camera-LiDAR Roadside Perception<a class="nounderline" href="https://ieeexplore.ieee.org/abstract/document/10422289"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
   organization: IEEE International Transportation Systems Conference (ITSC'23) (accepted)
   year: 2023
   summary: Walter Zimmer, Christian Creß, Huu Tung Nguyen, Alois C Knoll
 
-- publication: InfraDet3D - Multi-modal 3D Object Detection based on Roadside Infrastructure Camera and LiDAR Sensors<a style="text-decoration: none;" href="https://ieeexplore.ieee.org/document/10186723"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
+- publication: InfraDet3D - Multi-modal 3D Object Detection based on Roadside Infrastructure Camera and LiDAR Sensors<a class="nounderline" href="https://ieeexplore.ieee.org/document/10186723"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
   organization: IEEE Intelligent Vehicles Symposium (IV'23) (accepted)
   year: 2023
   summary: Walter Zimmer, Joseph Birkner, Marcel Brucker, Huu Tung Nguyen, Stefan Petrovski, Bohan Wang, Alois C Knoll
 
-- publication: Real-time and Robust 3D Object Detection with Roadside LiDARs<a style="text-decoration: none;" href="https://link.springer.com/chapter/10.1007/978-981-19-8361-0_13"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
+- publication: Real-time and Robust 3D Object Detection with Roadside LiDARs<a class="nounderline" href="https://link.springer.com/chapter/10.1007/978-981-19-8361-0_13"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
   organization: Springer Nature Singapore Pte Ltd. (accepted)
   year: 2023
   summary: Walter Zimmer, Jialong Wu, Xingcheng Zhou, Alois C Knoll
 
-- publication: AUTOtech.agil - Architecture and Technologies for Orchestrating Automotive Agility<a style="text-decoration: none;" href="https://publications.rwth-aachen.de/record/971700/files/971700.pdf"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
+- publication: AUTOtech.agil - Architecture and Technologies for Orchestrating Automotive Agility<a class="nounderline" href="https://publications.rwth-aachen.de/record/971700/files/971700.pdf"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
   organization: IEEE International Conference on Computer Vision Workshop (ICCV'23) (accepted)
   year: 2023
   summary: Raphael van Kempen, Walter Zimmer, Christian Creß, Xingcheng Zhou, ..., Alois Knoll, Lutz Eckstein
 
-- publication: Multi-Task Consistency for Active Learning<a style="text-decoration: none;" href="https://ieeexplore.ieee.org/document/10350950"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
+- publication: Multi-Task Consistency for Active Learning<a class="nounderline" href="https://ieeexplore.ieee.org/document/10350950"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
   organization: IEEE International Conference on Computer Vision Workshop (ICCV'23) (accepted)
   year: 2023
   summary: Aral Hekimoglu, Philipp Friedrich, Walter Zimmer, Michael Schmidt, Alvaro Marcos-Ramiro, Alois Knoll
 
-- publication: A9-Dataset - Multi-Sensor Infrastructure-based Dataset for Mobility Research<a style="text-decoration: none;" href="https://ieeexplore.ieee.org/abstract/document/9827401"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
+- publication: A9-Dataset - Multi-Sensor Infrastructure-based Dataset for Mobility Research<a class="nounderline" href="https://ieeexplore.ieee.org/abstract/document/9827401"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
   organization: IEEE Intelligent Vehicles Symposium (IV'22) (accepted)
   year: 2022
   summary: Christian Creß, Walter Zimmer, Leah Strand, Maximilian Fortkord, Siyi Dai, Venkatnarayanan Lakshminarasimhan, Alois Knoll
 
-- publication: Real-time and Robust 3D Object Detection within Road-side LiDARs using Domain Adaptation<a style="text-decoration: none;" href="https://arxiv.org/pdf/2204.00132.pdf"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
+- publication: Real-time and Robust 3D Object Detection within Road-side LiDARs using Domain Adaptation<a class="nounderline" href="https://arxiv.org/pdf/2204.00132.pdf"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
   organization: British Machine Vision Conference (BMVC'22) (under revision)
   year: 2022
   summary: Walter Zimmer, Marcus Grabler, Alois Knoll
 
-- publication: A Survey of Robust 3D Object Detection Methods in Point Clouds<a style="text-decoration: none;" href="https://arxiv.org/pdf/2204.00106.pdf"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
+- publication: A Survey of Robust 3D Object Detection Methods in Point Clouds<a class="nounderline" href="https://arxiv.org/pdf/2204.00106.pdf"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
   organization: Intelligent Vehicles Symposium (IV'20) (under revision)
   year: 2020
   summary: Walter Zimmer, Emec Ercelik, Xingcheng Zhou, Xavier Jair Diaz Ortiz, Alois Knoll
 
-- publication: 3D BAT - A Semi-Automatic, Web-based 3D Annotation Toolbox for Full-Surround, Multi-Modal Data Streams<a style="text-decoration: none;" href="https://ieeexplore.ieee.org/abstract/document/8814071"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
+- publication: 3D BAT - A Semi-Automatic, Web-based 3D Annotation Toolbox for Full-Surround, Multi-Modal Data Streams<a class="nounderline" href="https://ieeexplore.ieee.org/abstract/document/8814071"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
   organization: Intelligent Vehicles Symposium (IV'19) (accepted)
   year: 2019
   summary: Walter Zimmer, Akshay Rangesh and Mohan Trivedi
 
-- publication: Solving the Container Shipment Problem with the Focus on Special Goods (Dangerous and Fragile) Using Genetic Algorithms<a style="text-decoration: none;" href="https://vixra.org/pdf/1911.0157v1.pdf"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
+- publication: Solving the Container Shipment Problem with the Focus on Special Goods (Dangerous and Fragile) Using Genetic Algorithms<a class="nounderline" href="https://vixra.org/pdf/1911.0157v1.pdf"><img src="http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png" alt="Image" /></a>
   organization: IEEE Symposium Series on Computational Intelligence 2016 (SSCI'16) (under revision)
   year: 2016
   summary: Walter Zimmer, Carsten Mueller
